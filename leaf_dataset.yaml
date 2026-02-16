@@ -1,0 +1,6 @@
+names:
+- leaf
+nc: 1
+path: C:\Users\amarj\Downloads\Final_Project\FP\leaf_dataset
+train: images/train
+val: images/val
